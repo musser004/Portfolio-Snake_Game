@@ -1,6 +1,6 @@
 # Project: Snake Game (Game)
 
-Description: Simple snake game using Python Turtle where user controls snake to collect food and avoid hitting walls/growing tail. OOP for snake/food/scoreboard modules
+Description: Simple snake game using Python Turtle where user controls snake to collect food and avoid hitting walls/growing tail. OOP for snake/food/scoreboard modules. High score is logged in text file
 
 Python Libraries: Turtle, time, random
 
